@@ -1,0 +1,24 @@
+.flex-all-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    padding: 5px 10px;
+    color: aliceblue;
+    background-color: #272727;
+    border: 1px solid white;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.my-2 {
+    margin: 26px 10px;
+    padding: 5px 10px 3px 10px;
+}
+
+.text-center {
+    text-align: center;
+}
